@@ -1,0 +1,1 @@
+web: gunicorn MUCP_VTCCI_WEB.wsgi
